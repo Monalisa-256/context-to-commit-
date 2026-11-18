@@ -1,0 +1,8 @@
+# Local Python and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Local harness runtime records; never commit private task logs
+.worklog/
